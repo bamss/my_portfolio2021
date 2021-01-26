@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FEF9F4;
+}
+.intro{
+    font-size: 30px;
+    padding: 40px 0;
+}
+#me{
+    width: 80px;
+    border-radius: 100%;
+
+}
+h1, h2, h3, .projectName{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 28px;
+
+}
+p, footer a{
+    font-family: 'Noto Serif KR', serif;
+    color: #495464;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+nav div a{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.img-993px{
+    width: 763px;
+}
+.margin-30-padding-20{
+    margin: 30px 0;
+    padding: 20px 0;
+}
+main{
+    margin-left: 324px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding: 40px 0;
+}
+footer div a {
+    color: white;
+    font-size: 20px;
+    padding: 20px 0;
+}
+footer h3{
+    margin-left: 150px;
+
+}
+.d-flex{
+    display: flex;
+}
+.space-around{
+    justify-content: space-around;
+}
+.projectName{
+    color: #ffb26b;
+}
+.projectdes{
+    font-size: 23px;
+}
